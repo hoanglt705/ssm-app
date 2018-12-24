@@ -37,9 +37,10 @@
 	
 	<repositories>
         <repository>
-            <id>myMavenRepo.read</id>
-            <url>${myMavenRepo.read.url}</url>
-        </repository>
+	      <id>ssm</id>
+	      <name>Internal Snapshot Repository</name>
+	      <url>http://52.193.209.175/repository/snapshots</url>
+	    </repository>
     </repositories>
     
 	<dependencies>

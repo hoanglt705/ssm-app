@@ -56,7 +56,9 @@ public class MainApplication extends SingleFrameApplication {
 
   @Override
   protected void startup() {
+	  System.setProperty("core_service_url", "http://localhost:8081");
 	  System.setProperty("catalog_service_url", "http://localhost:8081");
+	  
     // JXLoginPane.Status status = login();
     // if (JXLoginPane.Status.SUCCEEDED.equals(status)) {
 	  try {
