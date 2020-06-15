@@ -30,7 +30,7 @@
 		<softsmithy.version>0.4</softsmithy.version>
 		<jbusycomponent.version>1.2.3</jbusycomponent.version>
 		<jide-oss.version>3.6.5</jide-oss.version>
-		<commons-collections.version>3.2.1</commons-collections.version>
+		<commons-collections.version>3.2.2</commons-collections.version>
 		<myMavenRepo.read.url>https://mymavenrepo.com/repo/0gYeR1uVbGBd8IBUlAOb/</myMavenRepo.read.url>
 		<myMavenRepo.write.url>https://mymavenrepo.com/repo/EsiHd95I3nhSKhiViDip/</myMavenRepo.write.url>
 	</properties>
